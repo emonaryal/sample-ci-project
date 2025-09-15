@@ -1,0 +1,4 @@
+pytest
+# Add any other dependencies your project needs, e.g.
+requests
+flask
